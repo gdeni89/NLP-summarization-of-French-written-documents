@@ -1,5 +1,8 @@
 # NLP-summarization-of-French-written-documents
 
+This project was made by ENSAE students : Solène Blasco Lopez, Giuseppe Deni and Béline Aubergeon.
+
+---
 
 This project will focus on the text summarization task applied to the summarization of French written documents. Formally, our goal will be to implement and compare different approaches to produce a summary from a given text. We adopted extractive (TextRank algorithm) and abstractive (mainly BARTHez model), trained and tested on OrangeSum dataset, with both quantitative (using ROUGE metric) and qualitative experiments.
 
